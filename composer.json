@@ -1,0 +1,19 @@
+{
+    "name": "columbusphp/singletonpattern",
+    "description": "Lightning Talk: Singleton Pattern",
+    "authors": [
+        {
+            "name": "Matthew Radcliffe",
+            "email": "mradcliffe@softpixel.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ColumbusPHP\\SingletonPattern\\": "src",
+            "ColumbusPHP\\Tests\\SingletonPattern\\": "tests/src"
+        }
+    }
+}
