@@ -1,0 +1,3 @@
+# The Singleton Pattern
+
+Slides: 

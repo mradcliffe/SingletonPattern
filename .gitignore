@@ -1,0 +1,10 @@
+composer.lock
+
+/.idea/
+/nbproject/
+/.vscode/
+
+/coverage/
+
+.DS_Store
+Thumbs.db
